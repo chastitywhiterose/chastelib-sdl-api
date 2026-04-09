@@ -10,6 +10,8 @@ But there was a problem! Should I base it on SDL2 which I had the most experienc
 
 I couldn't decide because I appreciate all libraries new and old. Therefore I made 3 separate versions of the same program which each function in the exact same way using the code matching that version of the SDL API.
 
+![Screenshot_chastelib_SDL_API_version_3.png](https://raw.githubusercontent.com/chastitywhiterose/chastelib-sdl-api/refs/heads/main/images/Screenshot_chastelib_SDL_API_version_3.png)
+
 Because I worked on this code so much, I wanted to have a separate repository for it so that others can easily navigate it and use it for projects they have in mind.
 
 <https://github.com/chastitywhiterose/chastelib-sdl-api>
